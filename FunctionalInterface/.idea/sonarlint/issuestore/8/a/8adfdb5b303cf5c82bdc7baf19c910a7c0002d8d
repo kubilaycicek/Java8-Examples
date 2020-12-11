@@ -1,0 +1,18 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¨ÝÉ8ÇÍ¯‹å.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«–¨†8ÇÍ¯‹å.
+^
+java:S1854"<Remove this useless assignment to local variable "lambda03".(©´¨ºùÿÿÿÿ8ÇÍ¯‹å.
+N
+java:S1602",Remove useless curly braces around statement(©´¨ºùÿÿÿÿ8ÇÍ¯‹å.
+J
+java:S1481"-Remove this unused "lambda02" local variable.(Ï¨ÝÉ8ÇÍ¯‹å.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(³ÙæÑüÿÿÿÿ8ÇÍ¯‹å.
+Y
+java:S1854"<Remove this useless assignment to local variable "lambda02".(Ï¨ÝÉ8ÇÍ¯‹å.
+m
+java:S1192
+"KDefine a constant instead of duplicating this literal "Message : " 3 times.(³ÙæÑüÿÿÿÿ8ÇÍ¯‹å.
+O
+java:S1481"-Remove this unused "lambda03" local variable.(©´¨ºùÿÿÿÿ8ÇÍ¯‹å.

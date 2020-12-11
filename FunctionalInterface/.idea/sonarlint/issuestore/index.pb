@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/java/Lambda03Test.java,2\a\2a35e8eb93d11a0a256dd7124f16647106a0504c
+O
+src/main/java/Lambda01Test.java,2\1\21d474bb637ce335b6f600ad955b6906a2fffc9b
+O
+src/main/java/Lambda05Test.java,e\7\e75913ce08a6165ee3a0f99e330c9b5cab8dc706
+O
+src/main/java/LambdaTest06.java,c\4\c4b760afd789ae6592a5c8ca9e3f050d5adb9b39
+\
+,src/main/java/FunctionalInterfaceTest02.java,b\5\b5daeef162d69cf2508be06abbf92464647cdd7b
+O
+src/main/java/Lambda04Test.java,f\a\fa27744c471e856541fb700fb279c3743ead3915
+O
+src/main/java/Lambda02Test.java,8\a\8adfdb5b303cf5c82bdc7baf19c910a7c0002d8d
+\
+,src/main/java/FunctionalInterfaceTest01.java,f\b\fb86d38fc86baa38b78ecd174d4501617d8545a5
+\
+,src/main/java/FunctionalInterfaceTest03.java,0\1\01a9bc62f26312b5812e96b44e8dbed1f24ea1aa

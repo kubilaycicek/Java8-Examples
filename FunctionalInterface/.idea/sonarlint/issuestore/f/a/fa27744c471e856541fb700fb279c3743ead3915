@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×ä¹°8®›ù‹å.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì»³øÿÿÿÿ8®›ù‹å.
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(íñ“¦úÿÿÿÿ8¾àõ‹å.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÜ»©ùÿÿÿÿ8Öì÷‹å.

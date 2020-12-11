@@ -1,0 +1,14 @@
+
+J
+java:S1481	"-Remove this unused "lambda01" local variable.(¡ÜØï8¡ÜÈ‹å.
+Y
+java:S1854	"<Remove this useless assignment to local variable "lambda01".(¡ÜØï8¡ÜÈ‹å.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(¡ÜØï8¡ÜÈ‹å.
+I
+java:S1602",Remove useless curly braces around statement(÷×Ï¤8·Ğ‹å.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«Æ¼Í8ÑÍ‹å.
+Y
+java:S1854"<Remove this useless assignment to local variable "lambda03".(÷×Ï¤8·Ğ‹å.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é¢˜Š8·Ğ‹å.
+J
+java:S1481"-Remove this unused "lambda03" local variable.(÷×Ï¤8·Ğ‹å.
