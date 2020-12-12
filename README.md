@@ -6,7 +6,7 @@
 
 
 # Functional Interface
-* [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Predicate)
+* [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/FunctionalInterface)
 
 # Predicate
 * [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Predicate)
