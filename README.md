@@ -3,6 +3,7 @@
 
 # Overview
 * Functional Interface & Lambda Expression
+* Predicate
 
 
 # Functional Interface
