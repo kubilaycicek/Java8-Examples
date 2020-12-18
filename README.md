@@ -4,6 +4,7 @@
 # Overview
 * Functional Interface & Lambda Expression
 * Predicate
+* Consumer
 
 
 # Functional Interface
@@ -11,3 +12,6 @@
 
 # Predicate
 * [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Predicate)
+
+# Consumer
+* [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Consumer)
