@@ -1,0 +1,22 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "f2".(¨ªŽ™8€ú¾§ç.
+s
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¨ªŽ™8€ú¾§ç.
+I
+java:S1612",Replace this lambda with a method reference.(¨ªŽ™8€ú¾§ç.
+N
+java:S1612",Replace this lambda with a method reference.(Ýª³æþÿÿÿÿ8¯Ò¿§ç.
+s
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Ùî·×8€ú¾§ç.
+x
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Ýª³æþÿÿÿÿ8€ú¾§ç.
+D
+java:S1481"'Remove this unused "f1" local variable.(Ùî·×8€ú¾§ç.
+D
+java:S1481"'Remove this unused "f2" local variable.(¨ªŽ™8€ú¾§ç.
+S
+java:S1854"6Remove this useless assignment to local variable "f1".(Ùî·×8€ú¾§ç.
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¨ªŽ™8€ú¾§ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚é€Þûÿÿÿÿ8›êÀ§ç.

@@ -1,0 +1,6 @@
+
+I
+java:S1612",Replace this lambda with a method reference.(àÓòæ8‚¶ã¦ç.
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(àÓòæ8‚¶ã¦ç.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ÍúÀªÿÿÿÿÿ8‚¶ã¦ç.

@@ -1,0 +1,22 @@
+
+I
+java:S1612",Replace this lambda with a method reference.(ß‡‘â8íõ¶§ç.
+X
+java:S1854"6Remove this useless assignment to local variable "f1".(×‡Îöúÿÿÿÿ8Ó†µ§ç.
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(×‡Îöúÿÿÿÿ8ëÙ±§ç.
+I
+java:S1481	"'Remove this unused "f2" local variable.(ë¸Ùêùÿÿÿÿ8ëÙ±§ç.
+}
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ë¸Ùêùÿÿÿÿ8ëÙ±§ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8‰¯¸§ç.
+I
+java:S1481"'Remove this unused "f1" local variable.(×‡Îöúÿÿÿÿ8Ó†µ§ç.
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ß‡‘â8íõ¶§ç.
+N
+java:S1612	",Replace this lambda with a method reference.(ë¸Ùêùÿÿÿÿ8ëÙ±§ç.
+X
+java:S1854	"6Remove this useless assignment to local variable "f2".(ë¸Ùêùÿÿÿÿ8ëÙ±§ç.
+u
+java:S1602	"SRemove useless curly braces around statement and then remove useless return keyword(ë¸Ùêùÿÿÿÿ8ëÙ±§ç.
