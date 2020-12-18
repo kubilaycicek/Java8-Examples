@@ -6,6 +6,7 @@
 * Predicate
 * Consumer
 * Function
+* Supplier
 
 
 # Functional Interface
@@ -19,3 +20,6 @@
 
 # Function
 * [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Function)
+
+# Supplier
+* [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Supplier)
