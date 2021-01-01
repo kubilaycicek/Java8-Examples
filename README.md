@@ -25,5 +25,5 @@
 # Supplier
 * [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/Supplier)
 
-# # Date Time API
+# Date Time API
 * [Code Example](https://github.com/kubilaycicek/Java8-Examples/tree/master/DateTimeAPI)
