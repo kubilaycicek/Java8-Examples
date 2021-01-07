@@ -9,7 +9,7 @@ public class OuterClass {
     private class RegularInnerClass {
 
         private String password = "12345";
-        private static String compilerError="test"; // static değişken tanımlanamaz.
+        //private static String compilerError="test"; // static değişken tanımlanamaz.
 
         private void printMessage() {
             System.out.println(name);//private üyelere erişim sağlayabilir
