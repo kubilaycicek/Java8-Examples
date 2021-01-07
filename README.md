@@ -7,3 +7,8 @@
 * [Function](https://github.com/kubilaycicek/Java8-Examples/tree/master/Function)
 * [Supplier](https://github.com/kubilaycicek/Java8-Examples/tree/master/Supplier)
 * [Date Time API](https://github.com/kubilaycicek/Java8-Examples/tree/master/DateTimeAPI)
+
+# Java SE
+Java SE Code Examples
+# Overview
+[Generics](https://github.com/kubilaycicek/Java8-Examples/tree/master/Java%20SE/Generics/demo)
