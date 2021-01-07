@@ -14,6 +14,11 @@ public class GenericExamples2 {
         Dog[] dogs = new Dog[3];
         addElementArray(dogs); //Cat IS-A Dog değil bu sebeple exception verir.
 
+        addElementObject(dogList);
+
+        List<Object> objectList = new ArrayList<>();
+        addElementObject2(objectList);
+
     }
 
     public static void addElement(List<Animal> animalList) {
@@ -26,6 +31,18 @@ public class GenericExamples2 {
         animalList[0] = new Cat();
 
     }
+
+    // ? extends Object -> ? ayni anlama geliyor.
+    public static void addElementObject(List<? extends Object> objects) {
+
+    }
+
+    //Buraya sadece List<Object> .
+    public static void addElementObject2(List<Object> list) {
+
+    }
+
+
 }
 
 class Animal {
