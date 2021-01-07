@@ -1,0 +1,22 @@
+
+N
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘
+—
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­•ş
+T
+java:S1854">Remove this useless assignment to local variable "kangalList".(¿ù„
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¨•¯
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ˆn
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†–Û¡üÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ù„
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Õóû
+Q	java:S125)"<This block of commented-out lines of code should be removed.(—Šœ¶
+W
+java:S20949"BRemove this empty class, write its code or make it an "interface".(ıÕ¶T
+E
+java:S1481"/Remove this unused "kangalList" local variable.(¿ù„

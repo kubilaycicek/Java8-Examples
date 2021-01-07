@@ -1,0 +1,14 @@
+
+P
+java:S1481"3Remove this unused "genericInteger" local variable.(ñ–¥¦8ˆÕ¥ñí.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÓž—8ï‘«ñí.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ–¥¦8ï‘«ñí.
+^
+java:S1854"ARemove this useless assignment to local variable "genericString".(ãÓž—8Ž¹«ñí.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸôýÜ
+_
+java:S1854"BRemove this useless assignment to local variable "genericInteger".(ñ–¥¦8ˆÕ¥ñí.
+O
+java:S1481"2Remove this unused "genericString" local variable.(ãÓž—8Ž¹«ñí.
